@@ -27,7 +27,7 @@
           "scale": {"domain": [5, 9]}
         },
         "color": {
-          "field": "Sum of each countries",
+          "field": "Sum_of_each_countries",
           "type": "quantitative",
           "title": "Emission in kt",
           "scale": {"scheme": "reds"}
