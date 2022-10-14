@@ -9,6 +9,6 @@
   "encoding": {
     "x": {"timeUnit": "year", "field": "Year", "axis": {"format": "%Y"}},
     "y": {"aggregate": "sum", "field": "Value (kilotonne/kt)"},
-    "color": {"field": "Country or Area", "scale": {"scheme": "category20b"}}
+    "color": {"field": "Country", "scale": {"scheme": "category20b"}}
   }
 }
