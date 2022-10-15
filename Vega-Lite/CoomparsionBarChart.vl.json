@@ -12,6 +12,7 @@
       "title": "Sum of the carbon emission"
     },
     "y": {"field": "Country", "type": "nominal"},
-    "tooltip": [{"field": "Value (kilotonne/kt)", "type": "quantitative"}]
+    "color":{"field":"Country"},
+    "tooltip": [{"field": "Sum_of_each_countries", "type": "quantitative"}]
   }
 }
