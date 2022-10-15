@@ -1,6 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width":500,
+  "title":"Country Vs Sum of carbon emission",
   "data": {
     "url": "https://raw.githubusercontent.com/YuangFu0527/FIT3179/main/Data/Carbon%20dioxide%20emission.csv"
   },
