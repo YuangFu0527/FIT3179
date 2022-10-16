@@ -12,7 +12,8 @@
     "color": {"field": "Country", "scale": {"scheme": "category20b"}},
     "tooltip":[
       {"field":"Country","type": "nominal"},
-      {"field":"Value (kilotonne/kt)","type": "quantitative"}
+      {"field":"Value (kilotonne/kt)","type": "quantitative"},
+      {"field":"Year","type": "temporal","timeUnit":"year"}
     ]
   }
 }
